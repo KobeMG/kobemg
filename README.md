@@ -1,6 +1,23 @@
-# Kobe
-
+# 💫 About Me
 Hi, I'm Kobe, a software developer with a passion for solving problems and building innovative solutions. I have a background in desktop and web development, diagram design, and SQL database administration. My goal is to continue learning and growing as a software developer, working on projects that make a positive impact.
+
+## Social Media
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif" width="100"/>
+</div>
+<div id="badges" align="left">
+   <a href="https://www.linkedin.com/in/kobemg/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+   <a href="https://twitter.com/kobe_moya">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  
+  <a href="https://www.instagram.com/kobemg/">
+    <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</div>
 
 ## Objective
 A dedicated and motivated software developer with experience in a variety of technologies, seeking opportunities to work on projects that challenge and inspire me to constantly improve.
