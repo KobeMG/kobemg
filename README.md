@@ -10,16 +10,17 @@ A dedicated and motivated software developer with experience in a variety of tec
 
 ## Skills
 - Technical:
-  - SQL databases: MySQL and SQL Server
-  - Tools: Office, MATLAB
-  - Web Development: Node JS, ReactJS
+  - SQL databases: MySQL and SQL Server.
+  - Tools: Office, MATLAB.
+  - Web Development: Node JS, ReactJS.
   - Version management in repositories like GitHub.
 - Programming Languages:
-  - Strong: Java, C#
-  - Familiar: C++, JavaScript, Python
-- Fluent in English and Spanish (mother tongue)
+  - Strong: JavaScript, TypeScript.
+  - Familiar: Java, C++, Python, C#.
+- Languages:
+  - Intermediate English and Spanish as a mother tongue.
 
 ## Education
-- Bachelor of Science in Computer Science, University of Costa Rica, 2023
+- Bachelor of Science in Computer Science, University of Costa Rica, 2023.
 
 Feel free to connect with me on my email: kobemoya@gmail.com, I'd love to hear from you!
